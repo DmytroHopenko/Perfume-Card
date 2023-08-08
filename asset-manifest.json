@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Perfume-Card/static/css/main.a0675e7b.css",
+    "main.js": "/Perfume-Card/static/js/main.917257f6.js",
+    "static/media/image-product-desktop.jpg": "/Perfume-Card/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/Perfume-Card/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/Perfume-Card/index.html",
+    "main.a0675e7b.css.map": "/Perfume-Card/static/css/main.a0675e7b.css.map",
+    "main.917257f6.js.map": "/Perfume-Card/static/js/main.917257f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0675e7b.css",
+    "static/js/main.917257f6.js"
+  ]
+}
